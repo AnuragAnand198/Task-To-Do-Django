@@ -6,7 +6,7 @@ A straightforward Django-based application called The Task To Do. The user has t
 
 
 ## Project Link
-http://surajverma7878.pythonanywhere.com/
+http://anuraganand198.pythonanywhere.com/
 ## Features
 
 
@@ -23,22 +23,22 @@ http://surajverma7878.pythonanywhere.com/
 ## Screenshots
 
 Home
-![Home](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/Home.png)
+![Home](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/Home.png)
 
 Signup
-![SignUp](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/SignUp.png)
+![SignUp](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/SignUp.png)
 
 Login
-![Login](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/Login.png)
+![Login](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/Login.png)
 
 CreateTodos
-![Create](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CreateTodos.png)
+![Create](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CreateTodos.png)
 
 CurrentTodos
-![Current](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CurrentTodos.png)
+![Current](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CurrentTodos.png)
 
 CompleteTodos
-![Complete](https://raw.githubusercontent.com/surajverma8787/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CompletedTodos.png)
+![Complete](https://raw.githubusercontent.com/AnuragAnand198/Task_To_Do_Django/master/Task_To_Do_Django_Screenshots/CompletedTodos.png)
 
 
 
@@ -49,10 +49,10 @@ CompleteTodos
 
 ## Authors
 
-- [@Suraj Verma](https://github.com/surajverma8787)
+- [@Anurag Anand](https://github.com/AnuragAnand198)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at surajverma8787.com
+If you have any feedback, please reach out to us at AnuragAnand198.com
 
